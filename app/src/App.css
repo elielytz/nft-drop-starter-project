@@ -57,6 +57,19 @@
   font-weight: bold;
 }
 
+.cta-button02 {
+  height: 45px;
+  border: 0;
+  width: auto;
+  padding-left: 100px;
+  padding-right: 100px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ff8867;
+}
+
 .connect-wallet-button {
   color: white;
   background: -webkit-linear-gradient(left, #ff8867, #ff52ff);
