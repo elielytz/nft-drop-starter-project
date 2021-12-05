@@ -1,0 +1,19 @@
+{
+    "name": "Arctiguana",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "AQMcns7cgZRxjCL5u537JF68LV82wLoW3CXZiceCH8w5",
+          "share": 100
+        }
+      ]
+    }
+  }
